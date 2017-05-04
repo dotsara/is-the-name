@@ -1,4 +1,4 @@
-# That's my new band name / album or anthology title
+# … is the name of my next band / album / anthology 🤘🏽 📚
 
 ## Band names
 
