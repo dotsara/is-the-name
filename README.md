@@ -35,10 +35,10 @@
 
 ## Album / anthology titles
 
-* "I like HTTP status codes over embedded success indicators" (from @bleything)
-* "the ouroboros of inequality" ([tweet](https://twitter.com/dotsara/status/834524181194608640))
-* "the catastrophic consequences of likeability" ([tweet](https://twitter.com/dotsara/status/789505735465984000))
-* "unexplained and inexplicable" ([tweet](https://twitter.com/dotsara/status/751502543167950848))
-* "Clarification in the Abstract" ([tweet](https://twitter.com/dotsara/status/363323960265416704))
-* "preaching Serious Literature to the elbow patches" ([tweet](https://twitter.com/dotsara/status/751502543167950848))
-* "Pleasure of Intuition" by Rigor of Pedagogy ([tweet](https://twitter.com/dotsara/status/344176498879639552))
+* _I like HTTP status codes over embedded success indicators_ (from @bleything)
+* _the ouroboros of inequality_ ([tweet](https://twitter.com/dotsara/status/834524181194608640))
+* _the catastrophic consequences of likeability_ ([tweet](https://twitter.com/dotsara/status/789505735465984000))
+* _unexplained and inexplicable_ ([tweet](https://twitter.com/dotsara/status/751502543167950848))
+* _Clarification in the Abstract_ ([tweet](https://twitter.com/dotsara/status/363323960265416704))
+* _preaching Serious Literature to the elbow patches_ ([tweet](https://twitter.com/dotsara/status/751502543167950848))
+* _Pleasure of Intuition_ by Rigor of Pedagogy ([tweet](https://twitter.com/dotsara/status/344176498879639552))
