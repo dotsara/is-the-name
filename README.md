@@ -6,7 +6,7 @@
 * Coronal Consonants ([tweet](https://twitter.com/dotsara/status/486901934767357952))
 * Unkempt Nihilism ([tweet](https://twitter.com/dotsara/status/484201713436745729))
 * The Nihilistic Embrace ([tweet](https://twitter.com/dotsara/status/410896465934835712))
-* Humidity and Parsnips ([tweet])(https://twitter.com/dotsara/status/388063583998713856))
+* Humidity and Parsnips ([tweet](https://twitter.com/dotsara/status/388063583998713856))
 * Atmospheric Menace ([tweet](https://twitter.com/dotsara/status/380875435153686528))
 * uninitialized constant ([tweet](https://twitter.com/dotsara/status/369915971034562560))
 * A Distillation of Spite ❤️ ([tweet](https://twitter.com/dotsara/status/368803252839542784))
