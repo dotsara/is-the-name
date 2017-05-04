@@ -1,5 +1,8 @@
 # … is the name of my next band / album / anthology 🤘🏽 📚
 
+* [Band names](#band-names)
+* [Album / anthology titles](#album--anthology-titles)
+
 ## Band names
 
 * Craven and Insular ([tweet](https://twitter.com/dotsara/status/741421397759561728))
@@ -23,6 +26,12 @@
    * Workaday Paranoia and Aeronautic Abandon
 * Empirical Accident ([tweet](https://twitter.com/dotsara/status/228578268293525504))
 * fiery bubbles of doom ([tweet](https://twitter.com/dotsara/status/1091160179))
+
+### Submissions!
+
+* from JA:
+   * Heathen Vision (Possible album title: _Tombstones_)
+   * Mr. Mermaid (album: _Jaunty Dolphin_)
 
 ## Album / anthology titles
 
