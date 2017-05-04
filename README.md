@@ -2,9 +2,7 @@
 
 ## Band names
 
-* Craven and Insular
-
-   [Seattle Review of Books article on fixing publishing's broken blurb system](http://www.seattlereviewofbooks.com/notes/2016/06/10/against-blurbs-and-for-endorsements/) ([tweet](https://twitter.com/dotsara/status/741421397759561728))
+* Craven and Insular ([tweet](https://twitter.com/dotsara/status/741421397759561728))
 * Coronal Consonants ([tweet](https://twitter.com/dotsara/status/486901934767357952))
 * Unkempt Nihilism ([tweet](https://twitter.com/dotsara/status/484201713436745729))
 * The Nihilistic Embrace ([tweet](https://twitter.com/dotsara/status/410896465934835712))
