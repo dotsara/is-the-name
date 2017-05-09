@@ -35,6 +35,7 @@
 
 ## Album / anthology titles
 
+* _Spill your impossible scripture_ ([Dominique Christina's "The Period Poem"](https://www.youtube.com/watch?v=4vu2BsePvoI))
 * _I like HTTP status codes over embedded success indicators_ (from @bleything)
 * _the ouroboros of inequality_ ([tweet](https://twitter.com/dotsara/status/834524181194608640))
 * _the catastrophic consequences of likeability_ ([tweet](https://twitter.com/dotsara/status/789505735465984000))
