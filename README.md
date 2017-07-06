@@ -35,6 +35,7 @@
 
 ## Album / anthology titles
 
+* _Human nature (together with the operation of time)_ from [The Word Choices That Explain Why Jane Austen Endures](https://www.nytimes.com/2017/07/06/upshot/the-word-choices-that-explain-why-jane-austen-endures.html), via @tiffehr
 * _The bandwagon of my uncertainty_ ([Melissa Lozada-Oliva's "Like Totally Whatever"](https://www.youtube.com/watch?v=me4_QwmaNoQ))
 * _Spill your impossible scripture_ ([Dominique Christina's "The Period Poem"](https://www.youtube.com/watch?v=4vu2BsePvoI) via @keavy)
 * _I like HTTP status codes over embedded success indicators_ (from @bleything)
