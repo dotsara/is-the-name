@@ -26,6 +26,7 @@
    * Workaday Paranoia and Aeronautic Abandon
 * Empirical Accident ([tweet](https://twitter.com/dotsara/status/228578268293525504))
 * fiery bubbles of doom ([tweet](https://twitter.com/dotsara/status/1091160179))
+* Paradigms of Control (industrial metal with synth pop B-sides, via Shane)
 
 ### Submissions!
 
