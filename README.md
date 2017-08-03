@@ -28,6 +28,7 @@
 * fiery bubbles of doom ([tweet](https://twitter.com/dotsara/status/1091160179))
 * Paradigms of Control (industrial metal with synth pop B-sides, via Shane)
 * Viscoelastic Creep (from [an article about stretching](https://www.elitefts.com/education/rehab-recovery/digging-deeper-stretching/))
+* A Heteroglossic Wonderland (from [Lauren Michelle Jackson](http://laurjackson.com) in ["Poetic License"](http://reallifemag.com/poetic-license/))
 
 ### Submissions!
 
