@@ -48,3 +48,4 @@
 * _Clarification in the Abstract_ ([tweet](https://twitter.com/dotsara/status/363323960265416704))
 * _preaching Serious Literature to the elbow patches_ ([tweet](https://twitter.com/dotsara/status/751502543167950848))
 * _Pleasure of Intuition_ by Rigor of Pedagogy ([tweet](https://twitter.com/dotsara/status/344176498879639552))
+* _The Poetics of the Sustainable Kitchen_ (from [_Just Enough Research_](https://abookapart.com/products/just-enough-research) by [Erika Hall](https://twitter.com/mulegirl))
