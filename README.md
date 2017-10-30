@@ -50,3 +50,4 @@
 * _preaching Serious Literature to the elbow patches_ ([tweet](https://twitter.com/dotsara/status/751502543167950848))
 * _Pleasure of Intuition_ by Rigor of Pedagogy ([tweet](https://twitter.com/dotsara/status/344176498879639552))
 * _The Poetics of the Sustainable Kitchen_ (from [_Just Enough Research_](https://abookapart.com/products/just-enough-research) by [Erika Hall](https://twitter.com/mulegirl))
+* _The Crux of Our Solitude_ (from [Gabriel Garciá Márquez's Nobel lecture in 1982](https://www.nobelprize.org/nobel_prizes/literature/laureates/1982/marquez-lecture.html))
