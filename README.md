@@ -51,3 +51,4 @@
 * _Pleasure of Intuition_ by Rigor of Pedagogy ([tweet](https://twitter.com/dotsara/status/344176498879639552))
 * _The Poetics of the Sustainable Kitchen_ (from [_Just Enough Research_](https://abookapart.com/products/just-enough-research) by [Erika Hall](https://twitter.com/mulegirl))
 * _The Crux of Our Solitude_ (from [Gabriel Garciá Márquez's Nobel lecture in 1982](https://www.nobelprize.org/nobel_prizes/literature/laureates/1982/marquez-lecture.html))
+* _the molten, ever-present eye of a merciless star_ (from [@panzer](https://twitter.com/panzer)'s [The 10th Anniversary iPhone Goes to Disneyland](https://techcrunch.com/2017/10/31/review-the-iphone-x-goes-to-disneyland/)
