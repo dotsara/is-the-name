@@ -52,3 +52,4 @@
 * _The Poetics of the Sustainable Kitchen_ (from [_Just Enough Research_](https://abookapart.com/products/just-enough-research) by [Erika Hall](https://twitter.com/mulegirl))
 * _The Crux of Our Solitude_ (from [Gabriel Garciá Márquez's Nobel lecture in 1982](https://www.nobelprize.org/nobel_prizes/literature/laureates/1982/marquez-lecture.html))
 * _the molten, ever-present eye of a merciless star_ (from [@panzer](https://twitter.com/panzer)'s [The 10th Anniversary iPhone Goes to Disneyland](https://techcrunch.com/2017/10/31/review-the-iphone-x-goes-to-disneyland/)
+* _conducive to the outbreak of a revolutionary_ (from ["The Technological Origins of Protestantism, or the Martin Luther Tech Myth"](https://thefrailestthing.com/2017/06/02/the-technological-origins-of-protestantism-or-the-martin-luther-tech-myth/) by [@LMSacasas](https://twitter.com/@LMSacasas) via [Shane](https://twitter.com/shaneorgn)
