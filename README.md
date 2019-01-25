@@ -2,6 +2,7 @@
 
 * [Band names](#band-names)
 * [Album / anthology titles](#album--anthology-titles)
+* [Epigraphs](#epigraphs)
 
 ## Band names
 
@@ -54,3 +55,7 @@
 * _the molten, ever-present eye of a merciless star_ (from [@panzer](https://twitter.com/panzer)'s [The 10th Anniversary iPhone Goes to Disneyland](https://techcrunch.com/2017/10/31/review-the-iphone-x-goes-to-disneyland/)
 * _conducive to the outbreak of a revolutionary_ (from ["The Technological Origins of Protestantism, or the Martin Luther Tech Myth"](https://thefrailestthing.com/2017/06/02/the-technological-origins-of-protestantism-or-the-martin-luther-tech-myth/) by [@LMSacasas](https://twitter.com/@LMSacasas) via [Shane](https://twitter.com/shaneorgn))
 * _A sea of empty posturing_ (from Jay Smooth's ["How To Tell Someone They Sound Racist"](https://www.youtube.com/watch?v=b0Ti-gkJiXc))
+
+## Epigraphs
+
+* "So really, the contest comes down to two grown men squabbling over a shared delusion…" (from [@claire_lampen](https://twitter.com/claire_lampen)'s "[I Am Living for the Drama Over France’s Obsolete Throne](https://www.thecut.com/2019/01/henri-dorleans-dies-spat-over-french-throne-lives-on.html)")
