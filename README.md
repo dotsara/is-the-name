@@ -31,6 +31,7 @@
 * Viscoelastic Creep (from [an article about stretching](https://www.elitefts.com/education/rehab-recovery/digging-deeper-stretching/))
 * A Heteroglossic Wonderland (from [Lauren Michelle Jackson](http://laurjackson.com) in ["Poetic License"](http://reallifemag.com/poetic-license/))
 * Pessimism Barbie (🙋🏽)
+* Serendipitous Spanners (from [Jez Burrows's _Dictionary Stories Short Fictions and Other Findings_](http://www.dictionarystories.com/))
 
 ### Submissions!
 
