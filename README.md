@@ -54,10 +54,10 @@
 * _Pleasure of Intuition_ by Rigor of Pedagogy ([tweet](https://twitter.com/dotsara/status/344176498879639552))
 * _The Poetics of the Sustainable Kitchen_ (from [_Just Enough Research_](https://abookapart.com/products/just-enough-research) by [Erika Hall](https://twitter.com/mulegirl))
 * _The Crux of Our Solitude_ (from [Gabriel Garciá Márquez's Nobel lecture in 1982](https://www.nobelprize.org/nobel_prizes/literature/laureates/1982/marquez-lecture.html))
-* _the molten, ever-present eye of a merciless star_ (from [@panzer](https://twitter.com/panzer)'s [The 10th Anniversary iPhone Goes to Disneyland](https://techcrunch.com/2017/10/31/review-the-iphone-x-goes-to-disneyland/)
+* _the molten, ever-present eye of a merciless star_ (from [@panzer](https://twitter.com/panzer)'s [The 10th Anniversary iPhone Goes to Disneyland](https://techcrunch.com/2017/10/31/review-the-iphone-x-goes-to-disneyland/))
 * _conducive to the outbreak of a revolutionary_ (from ["The Technological Origins of Protestantism, or the Martin Luther Tech Myth"](https://thefrailestthing.com/2017/06/02/the-technological-origins-of-protestantism-or-the-martin-luther-tech-myth/) by [@LMSacasas](https://twitter.com/@LMSacasas) via [Shane](https://twitter.com/shaneorgn))
 * _A sea of empty posturing_ (from Jay Smooth's ["How To Tell Someone They Sound Racist"](https://www.youtube.com/watch?v=b0Ti-gkJiXc))
-* _Tasked with the job of municipal plunder_ (from Ta-Nehisi Coates's essay ["The Black Family in the Age of Mass Incarceration"](https://www.theatlantic.com/magazine/archive/2015/10/the-black-family-in-the-age-of-mass-incarceration/403246/)
+* _Tasked with the job of municipal plunder_ (from Ta-Nehisi Coates's essay ["The Black Family in the Age of Mass Incarceration"](https://www.theatlantic.com/magazine/archive/2015/10/the-black-family-in-the-age-of-mass-incarceration/403246/))
 * _Summoned into Sympathetic Vibration_ (from Robin Sloan's newsletter, 23 Dec 2020)
 ## Epigraphs
 
