@@ -58,7 +58,7 @@
 * _conducive to the outbreak of a revolutionary_ (from ["The Technological Origins of Protestantism, or the Martin Luther Tech Myth"](https://thefrailestthing.com/2017/06/02/the-technological-origins-of-protestantism-or-the-martin-luther-tech-myth/) by [@LMSacasas](https://twitter.com/@LMSacasas) via [Shane](https://twitter.com/shaneorgn))
 * _A sea of empty posturing_ (from Jay Smooth's ["How To Tell Someone They Sound Racist"](https://www.youtube.com/watch?v=b0Ti-gkJiXc))
 * _Tasked with the job of municipal plunder_ (from Ta-Nehisi Coates's essay ["The Black Family in the Age of Mass Incarceration"](https://www.theatlantic.com/magazine/archive/2015/10/the-black-family-in-the-age-of-mass-incarceration/403246/)
-
+* _Summoned into Sympathetic Vibration_ (from Robin Sloan's newsletter, 23 Dec 2020)
 ## Epigraphs
 
 * "So really, the contest comes down to two grown men squabbling over a shared delusion…" (from [@claire_lampen](https://twitter.com/claire_lampen)'s "[I Am Living for the Drama Over France’s Obsolete Throne](https://www.thecut.com/2019/01/henri-dorleans-dies-spat-over-french-throne-lives-on.html)")
