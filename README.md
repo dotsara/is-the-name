@@ -60,6 +60,7 @@
 * _Tasked with the job of municipal plunder_ (from Ta-Nehisi Coates's essay ["The Black Family in the Age of Mass Incarceration"](https://www.theatlantic.com/magazine/archive/2015/10/the-black-family-in-the-age-of-mass-incarceration/403246/))
 * _Summoned into Sympathetic Vibration_ (from Robin Sloan's newsletter, 23 Dec 2020)
 * _In Argument of Perihelion_ (from general information about Planet Nine in the Star Walk iOS app)
+* _Your Systematic Overthinking of Superfluous Details_ (from the caption of horses in Andalusia in [Magnum Photographers Turn Their Lenses on the Start of a New Year](https://www.vogue.com/article/magnum-photographer-portraits-2021) from _Vogue_)
 
 ## Epigraphs
 
