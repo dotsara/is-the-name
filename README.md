@@ -61,6 +61,8 @@
 * _Summoned into Sympathetic Vibration_ (from Robin Sloan's newsletter, 23 Dec 2020)
 * _In Argument of Perihelion_ (from general information about Planet Nine in the Star Walk iOS app)
 * _Your Systematic Overthinking of Superfluous Details_ (from the caption of horses in Andalusia in [Magnum Photographers Turn Their Lenses on the Start of a New Year](https://www.vogue.com/article/magnum-photographer-portraits-2021) from _Vogue_)
+* _a certain kind of suburban basement ethos_ from _New Republic_'s article, ["The GameStop Saga Shows How Casino Capitalism Is Eating the World"](https://newrepublic.com/article/161082/gamestop-saga-shows-casino-capitalism-eating-world)
+   - This would definitely have to be a _Stranger Things_-esque vaporwave album, right?
 
 ## Epigraphs
 
