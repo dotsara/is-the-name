@@ -42,7 +42,7 @@
 
 ## Album / anthology titles
 
-* _Human nature (together with the operation of time)_ from [The Word Choices That Explain Why Jane Austen Endures](https://www.nytimes.com/2017/07/06/upshot/the-word-choices-that-explain-why-jane-austen-endures.html), via @tiffehr
+* _Human nature (together with the operation of time)_ (from [The Word Choices That Explain Why Jane Austen Endures](https://www.nytimes.com/2017/07/06/upshot/the-word-choices-that-explain-why-jane-austen-endures.html), via @tiffehr)
 * _The bandwagon of my uncertainty_ ([Melissa Lozada-Oliva's "Like Totally Whatever"](https://www.youtube.com/watch?v=me4_QwmaNoQ))
 * _Spill your impossible scripture_ ([Dominique Christina's "The Period Poem"](https://www.youtube.com/watch?v=4vu2BsePvoI) via @keavy)
 * _I like HTTP status codes over embedded success indicators_ (from @bleything)
@@ -61,9 +61,9 @@
 * _Summoned into Sympathetic Vibration_ (from Robin Sloan's newsletter, 23 Dec 2020)
 * _In Argument of Perihelion_ (from general information about Planet Nine in the Star Walk iOS app)
 * _Your Systematic Overthinking of Superfluous Details_ (from the caption of horses in Andalusia in [Magnum Photographers Turn Their Lenses on the Start of a New Year](https://www.vogue.com/article/magnum-photographer-portraits-2021) from _Vogue_)
-* _a certain kind of suburban basement ethos_ from _New Republic_'s article, ["The GameStop Saga Shows How Casino Capitalism Is Eating the World"](https://newrepublic.com/article/161082/gamestop-saga-shows-casino-capitalism-eating-world)
+* _a certain kind of suburban basement ethos_ (from _New Republic_'s article, ["The GameStop Saga Shows How Casino Capitalism Is Eating the World"](https://newrepublic.com/article/161082/gamestop-saga-shows-casino-capitalism-eating-world))
    - This would definitely have to be a _Stranger Things_-esque vaporwave album, right?
-* _A better line of work than motherfucking vigilance_ (from [Dessa](https://twitter.com/dessadarling)'s song ["Fire Drills"](https://dessa.bandcamp.com/track/fire-drills)
+* _A better line of work than motherfucking vigilance_ (from [Dessa](https://twitter.com/dessadarling)'s song ["Fire Drills"](https://dessa.bandcamp.com/track/fire-drills))
 
 ## Epigraphs
 
