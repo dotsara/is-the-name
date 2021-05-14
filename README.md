@@ -33,6 +33,7 @@
 * Pessimism Barbie (🙋🏽)
 * Serendipitous Spanners (from [Jez Burrows's _Dictionary Stories Short Fictions and Other Findings_](http://www.dictionarystories.com/))
 * The Pyramids of My Insecurity (discussing making emotional progress on certain topics)
+* The Curse of Dimensionality (@billylanchantin)
 
 ### Submissions!
 
