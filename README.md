@@ -71,3 +71,4 @@
 
 * "So really, the contest comes down to two grown men squabbling over a shared delusion…" (from [@claire_lampen](https://twitter.com/claire_lampen)'s "[I Am Living for the Drama Over France’s Obsolete Throne](https://www.thecut.com/2019/01/henri-dorleans-dies-spat-over-french-throne-lives-on.html)")
 * "…the mise en abyme of mimetic desire…" (from [Dayna Tortorici's "My Instagram"](https://nplusonemag.com/issue-36/essays/my-instagram/))
+* "This is the ballad of aspirational bourgeois existence." (from [The Shopping Cure](https://annehelen.substack.com/p/the-shopping-cure) edition of Anne Helen Petersen's newsletter, The Culture Study)
