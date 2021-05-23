@@ -66,7 +66,7 @@
    - This would definitely have to be a _Stranger Things_-esque vaporwave album, right?
 * _A better line of work than motherfucking vigilance_ (from [Dessa](https://twitter.com/dessadarling)'s song ["Fire Drills"](https://dessa.bandcamp.com/track/fire-drills))
 * _The sonic energy exhaled in the interior_ (from [the explanation on auralizations](https://hagiasophia.stanford.edu/) in a project about the Hagia Sophia)
-
+* _An array of indifferent watercolors_ (from _A Treacherous Curse_ by Deanna Raybourn)
 ## Epigraphs
 
 * "So really, the contest comes down to two grown men squabbling over a shared delusion…" (from [@claire_lampen](https://twitter.com/claire_lampen)'s "[I Am Living for the Drama Over France’s Obsolete Throne](https://www.thecut.com/2019/01/henri-dorleans-dies-spat-over-french-throne-lives-on.html)")
