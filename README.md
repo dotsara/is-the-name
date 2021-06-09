@@ -30,10 +30,12 @@
 * Paradigms of Control (industrial metal with synth pop B-sides, via Shane)
 * Viscoelastic Creep (from [an article about stretching](https://www.elitefts.com/education/rehab-recovery/digging-deeper-stretching/))
 * A Heteroglossic Wonderland (from [Lauren Michelle Jackson](http://laurjackson.com) in ["Poetic License"](http://reallifemag.com/poetic-license/))
-* Pessimism Barbie (🙋🏽)
+* Pessimism Barbie (🙋🏽‍♀️)
 * Serendipitous Spanners (from [Jez Burrows's _Dictionary Stories Short Fictions and Other Findings_](http://www.dictionarystories.com/))
 * The Pyramids of My Insecurity (discussing making emotional progress on certain topics)
 * The Curse of Dimensionality (@billylanchantin)
+* lil' knock knock (from @elbow-jason in a work Zoom 🤣)
+   * it seemed right to style it in all lowercase.
 
 ### Submissions!
 
