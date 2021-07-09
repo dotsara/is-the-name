@@ -19,26 +19,26 @@
 * Viscoelastic Creep (from [an article about stretching](https://www.elitefts.com/education/rehab-recovery/digging-deeper-stretching/))
 * Paradigms of Control (industrial metal with synth pop B-sides, via Shane)
 * fiery bubbles of doom ([tweet](https://twitter.com/dotsara/status/1091160179))
-* Empirical Accident ([tweet](https://twitter.com/dotsara/status/228578268293525504))
+* Empirical Accident
 * [reading in 2012](https://twitter.com/dotsara/status/275839537245204480):
    * Victorian Middle-Class Shorthand for Madness
    * Workaday Paranoia and Aeronautic Abandon
-* [a trip to the museum](https://twitter.com/dotsara/status/283457391817793536):
+* a trip to the museum:
    * Fragment of a Female Head
    * Packing for Martyrs
-* Scuttlebut Grumps ([tweet](https://twitter.com/dotsara/status/294230862222987265))
-* Freakishly Frivolous ([tweet](https://twitter.com/dotsara/status/331814712046129152))
-* Atmospheric Menace ([tweet](https://twitter.com/dotsara/status/380875435153686528))
-* Rigor of Pedagogy ([tweet](https://twitter.com/dotsara/status/344176498879639552))
-* Syntactic Sugar ([tweet](https://twitter.com/dotsara/status/363323661375119360))
+* Scuttlebut Grumps 
+* Freakishly Frivolous
+* Atmospheric Menace
+* Rigor of Pedagogy
+* Syntactic Sugar
 * A Distillation of Spite ❤️ ([tweet](https://twitter.com/dotsara/status/368803252839542784))
 * uninitialized constant ([tweet](https://twitter.com/dotsara/status/369915971034562560))
-* Existentially Fraught Free Throws ([tweet](https://twitter.com/dotsara/status/316317818582888448))
-* Humidity and Parsnips ([tweet](https://twitter.com/dotsara/status/388063583998713856))
-* The Nihilistic Embrace ([tweet](https://twitter.com/dotsara/status/410896465934835712))
-* Unkempt Nihilism ([tweet](https://twitter.com/dotsara/status/484201713436745729))
+* Existentially Fraught Free Throws
+* Humidity and Parsnips
+* The Nihilistic Embrace
+* Unkempt Nihilism
 * Coronal Consonants ([tweet](https://twitter.com/dotsara/status/486901934767357952))
-* Craven and Insular ([tweet](https://twitter.com/dotsara/status/741421397759561728))
+* Craven and Insular 
 
 ### Submissions!
 
