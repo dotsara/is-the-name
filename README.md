@@ -36,6 +36,7 @@
 * The Curse of Dimensionality (@billylanchantin)
 * lil' knock knock (from @elbow-jason in a work Zoom 🤣)
    * it seemed right to style it in all lowercase.
+* Of a Patchwork of Extractive Regimes (from [a tweet by Tressie McMillan Cottom in a thread about graduate degrees](https://twitter.com/tressiemcphd/status/1413326273842122753))
 
 ### Submissions!
 
