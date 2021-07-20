@@ -48,6 +48,7 @@
 
 ## Album / anthology titles
 
+* _The bourgeois cultural lingua franca of academia_ is absolutely a punk album title (from Tressie McMillan Cottom's newsletter issue, ["Let's Talk About Tenure"](https://tressie.substack.com/p/lets-talk-about-tenure)) 
 * _An array of indifferent watercolors_ (from _A Treacherous Curse_ by Deanna Raybourn)
 * _The sonic energy exhaled in the interior_ (from [the explanation on auralizations](https://hagiasophia.stanford.edu/) in a project about the Hagia Sophia)
 * _A better line of work than motherfucking vigilance_ (from [Dessa](https://twitter.com/dessadarling)'s song ["Fire Drills"](https://dessa.bandcamp.com/track/fire-drills))
