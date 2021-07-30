@@ -48,6 +48,7 @@
 
 ## Album / anthology titles
 
+* _In a blistering amicus brief Friday_ is, I'm guessing, an album full of wonderfully melodic singles with lyrics people don't grok until a few listens in and then they fall out when it all clicks (from _The Washngton Post_: [U.S. men’s soccer team backs women in equal-pay fight, saying USWNT should have been paid more](https://www.washingtonpost.com/sports/2021/07/30/usmnt-supports-uswnt-equal-pay/))
 * _The bourgeois cultural lingua franca of academia_ is absolutely a punk album title (from Tressie McMillan Cottom's newsletter issue, ["Let's Talk About Tenure"](https://tressie.substack.com/p/lets-talk-about-tenure)) 
 * _An array of indifferent watercolors_ (from _A Treacherous Curse_ by Deanna Raybourn)
 * _The sonic energy exhaled in the interior_ (from [the explanation on auralizations](https://hagiasophia.stanford.edu/) in a project about the Hagia Sophia)
