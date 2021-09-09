@@ -48,6 +48,7 @@
 
 ## Album / anthology titles
 
+* _Synchronous Transition in Complex Object Control_ (title of a paper linked in _Food & Wine_'s ["How Humans Walk and Carry a Cup of Coffee Is a Bit of a Physics Mystery"](https://www.foodandwine.com/news/coffee-walking-balance-physics), via [Tom & Lorenzo's loung post for September 9, 2021](https://tomandlorenzo.com/2021/09/t-lounge-for-september-9th-2021/))
 * _Instead I endured mere perfection._ (From Bill Addison's ["Chez Panisse reimagined the way we eat. After 50 years, is that enough?](https://www.latimes.com/food/story/2021-08-19/chez-panisse-50th-anniversary-alice-waters-bill-addison) in the _LA Times_; h/t [a Helen Rosner tweet](https://twitter.com/hels/status/1428770881405440007).
 * _Both a necessity and a terrifying liability_ (from [the second installment of Anne Helen Petersen's Peloton series in her Culture Study newsletter](https://annehelen.substack.com/p/the-parameters-of-peloton-celebrity))
 * _In a blistering amicus brief Friday_ is, I'm guessing, an album full of wonderfully melodic singles with lyrics people don't grok until a few listens in and then they fall out when it all clicks (from _The Washngton Post_: [U.S. men’s soccer team backs women in equal-pay fight, saying USWNT should have been paid more](https://www.washingtonpost.com/sports/2021/07/30/usmnt-supports-uswnt-equal-pay/))
