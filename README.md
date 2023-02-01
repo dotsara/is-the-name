@@ -120,6 +120,8 @@
 
 ## Epigraphs
 
+* "Do not be wedded forever to fear"
+   - From Maya Angelou's ["On the pulse of morning"](https://poets.org/poem/pulse-morning)
 * "This is the ballad of aspirational bourgeois existence." 
    - From [The Shopping Cure](https://annehelen.substack.com/p/the-shopping-cure) edition of Anne Helen Petersen's newsletter, The Culture Study
 * "…the mise en abyme of mimetic desire…"
