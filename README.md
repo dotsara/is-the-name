@@ -59,6 +59,8 @@
 
 ## Album / anthology titles
 
+* _My failures, quotidian and spectacular_
+   - Source [It Took Me Nearly 40 Years To Stop Resenting Ke Huy Quan](https://decider.com/2023/03/11/ke-huy-quan-walter-chaw/)
 * _the periphrastic construction of identity itself_ 
    - source: [From Family Trees to 23andMe, and Back Again, NYT](https://www.nytimes.com/2022/03/29/books/review/maud-newton-ancestor-trouble.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DODmwTiO4SBIubvF3Ae6tueJw21imXAdlML6MoQrl7yORSJFBqUUy0uJyZkpAIZSUprIb5FkUH46XwZ5Fquzn7cjv-b-5l2Ly0ux_BaWPsC6KIhnU-dwxlqY9ic1v9xSQKlqnaELMh2dh0iPclB5suVi5AMHfRx4TgDRp4MdqHaxzOuEJhC6wCB2alzZPL4KkAcQ5SFVvHUHh0hG0_49lcM94WV73te19iIIGtxOVMVRE7aduhFJYzRIPLlrh1sr-rqhSEysG-wv9eB7witgMVZD3XnZ8dG_OtqNrz&smid=url-share)
 * _Synchronous Transition in Complex Object Control_ 
