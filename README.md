@@ -59,6 +59,8 @@
 
 ## Album / anthology titles
 
+* _in dialectical tension with each other_
+   - Source [Jamelle Bouie's TikTok on the interesting and contradictory nature of former President Lyndon B. Johnson (and why learning history on TikTok doesn't absolve you of looking up sources](https://www.tiktok.com/@jamellebouie/video/7301314920107265323)
 * _My failures, quotidian and spectacular_
    - Source [It Took Me Nearly 40 Years To Stop Resenting Ke Huy Quan](https://decider.com/2023/03/11/ke-huy-quan-walter-chaw/)
 * _the periphrastic construction of identity itself_ 
