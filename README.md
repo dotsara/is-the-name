@@ -59,6 +59,8 @@
 
 ## Album / anthology titles
 
+* _a powerful quantum vortex in a tank of superfluid helium_
+   - Source: [Kottke.org link about black holes](https://kottke.org/24/01/0043800-black-holes-can-be-diffic)
 * _in dialectical tension with each other_
    - Source [Jamelle Bouie's TikTok on the interesting and contradictory nature of former President Lyndon B. Johnson (and why learning history on TikTok doesn't absolve you of looking up sources](https://www.tiktok.com/@jamellebouie/video/7301314920107265323)
 * _My failures, quotidian and spectacular_
