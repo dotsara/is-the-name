@@ -8,6 +8,9 @@
 
 ## Band names
 
+* an emotional understanding devoid of logic
+   - From [Redesigning Cormac McCarthy's Brutal 'Blood Meridian' by Bobby Solomon](https://thefoxisblack.com/redesigning-cormac-mccarthys-brutal-blood-meridian/) (via [Kottke](https://kottke.org/24/01/0043873-redesigning-cormac-mccart))
+   - I'll say this could also be a very good anthology name
 * Of a Patchwork of Extractive Regimes 
    - From [a tweet by Tressie McMillan Cottom in a thread about graduate degrees](https://twitter.com/tressiemcphd/status/1413326273842122753)
 * lil' knock knock (from @elbow-jason in a work Zoom 🤣)
