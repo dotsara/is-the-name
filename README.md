@@ -62,6 +62,8 @@
 
 ## Album / anthology titles
 
+* _In the Extraordinary Form of the liturgy_
+   - Source: reading about Pentacost on Wikipedia, [this phrase appears](https://en.wikipedia.org/wiki/Pentecost#Western_churches) in the description of Western churches' Pentacost celebrations. How did I even get here? I was listening (again!) to auralization "Teleutaion" ([hagiasophia.stanford.edu](https://hagiasophia.stanford.edu/)) and went looking up what "cathedral vespers on Pentecost" even means.
 * _a powerful quantum vortex in a tank of superfluid helium_
    - Source: [Kottke.org link about black holes](https://kottke.org/24/01/0043800-black-holes-can-be-diffic)
 * _in dialectical tension with each other_
