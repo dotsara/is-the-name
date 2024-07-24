@@ -62,6 +62,8 @@
 
 ## Album / anthology titles
 
+* _the bright and sustained return_
+   - Source: [Icons of Sound: Auralizing the Lost Voice of Hagia Sophia](https://www.journals.uchicago.edu/doi/full/10.1086/693439), re: the way performers can make use of the Hagia Sofia's design with their harmonies.
 * _In the Extraordinary Form of the liturgy_
    - Source: reading about Pentacost on Wikipedia, [this phrase appears](https://en.wikipedia.org/wiki/Pentecost#Western_churches) in the description of Western churches' Pentacost celebrations. How did I even get here? I was listening (again!) to auralization "Teleutaion" ([hagiasophia.stanford.edu](https://hagiasophia.stanford.edu/)) and went looking up what "cathedral vespers on Pentecost" even means.
 * _a powerful quantum vortex in a tank of superfluid helium_
