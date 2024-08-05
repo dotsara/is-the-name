@@ -8,6 +8,8 @@
 
 ## Band names
 
+* historical inertia and unexamined habit
+   - From [Eric Meyers's "Blinded by the Light DOM" article](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
 * an emotional understanding devoid of logic
    - From [Redesigning Cormac McCarthy's Brutal 'Blood Meridian' by Bobby Solomon](https://thefoxisblack.com/redesigning-cormac-mccarthys-brutal-blood-meridian/) (via [Kottke](https://kottke.org/24/01/0043873-redesigning-cormac-mccart))
    - I'll say this could also be a very good anthology name
