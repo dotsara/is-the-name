@@ -4,8 +4,6 @@
 * [Album / anthology titles](#album--anthology-titles)
 * [Epigraphs](#epigraphs)
 
-**Update note:** now in reverse chronological order! _09-July-2021_
-
 ## Band names
 
 * historical inertia and unexamined habit
@@ -108,7 +106,7 @@
 * _The Crux of Our Solitude_ 
    - From [Gabriel Garciá Márquez's Nobel lecture in 1982](https://www.nobelprize.org/nobel_prizes/literature/laureates/1982/marquez-lecture.html))
 * _The Poetics of the Sustainable Kitchen_ (from [_Just Enough Research_](https://abookapart.com/products/just-enough-research) by [Erika Hall](https://twitter.com/mulegirl)
-* From tweets that no longer exist because _Twitter_ no longer exists:
+* From tweets (of mine) that no longer exist because _Twitter_ (as I'd care to use it) no longer exists:
    * _Pleasure of Intuition_ by Rigor of Pedagogy 
    * _preaching Serious Literature to the elbow patches_ 
    * _Clarification in the Abstract_ 
@@ -137,4 +135,4 @@
 
 
 -----
-Made with ❤️ by a 🤓 on [GitHub](https://github.com/dotsara/is-the-name/)
+Made with ❤️ by dotsara on [GitHub](https://github.com/dotsara/is-the-name/) with GitHub Pages
