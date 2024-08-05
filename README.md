@@ -31,9 +31,8 @@
 * Paradigms of Control 
    - industrial metal with synth pop B-sides, via Shane
 * fiery bubbles of doom 
-   - [tweet](https://twitter.com/dotsara/status/1091160179)
 * Empirical Accident
-* [reading in 2012](https://twitter.com/dotsara/status/275839537245204480):
+* Reading in 2012:
    * Victorian Middle-Class Shorthand for Madness
    * Workaday Paranoia and Aeronautic Abandon
 * a trip to the museum:
@@ -45,15 +44,12 @@
 * Rigor of Pedagogy
 * Syntactic Sugar
 * A Distillation of Spite ❤️
-   - [tweet](https://twitter.com/dotsara/status/368803252839542784)
 * uninitialized constant
-   - [tweet](https://twitter.com/dotsara/status/369915971034562560)
 * Existentially Fraught Free Throws
 * Humidity and Parsnips
 * The Nihilistic Embrace
 * Unkempt Nihilism
 * Coronal Consonants
-   - [tweet](https://twitter.com/dotsara/status/486901934767357952)
 * Craven and Insular 
 
 ### Submissions!
@@ -112,18 +108,13 @@
 * _The Crux of Our Solitude_ 
    - From [Gabriel Garciá Márquez's Nobel lecture in 1982](https://www.nobelprize.org/nobel_prizes/literature/laureates/1982/marquez-lecture.html))
 * _The Poetics of the Sustainable Kitchen_ (from [_Just Enough Research_](https://abookapart.com/products/just-enough-research) by [Erika Hall](https://twitter.com/mulegirl)
-* _Pleasure of Intuition_ by Rigor of Pedagogy 
-   - [tweet](https://twitter.com/dotsara/status/344176498879639552)
-* _preaching Serious Literature to the elbow patches_ 
-   - [tweet](https://twitter.com/dotsara/status/751502543167950848)
-* _Clarification in the Abstract_ 
-   - [tweet](https://twitter.com/dotsara/status/363323960265416704)
-* _unexplained and inexplicable_ 
-   - [tweet](https://twitter.com/dotsara/status/751502543167950848)
-* _the catastrophic consequences of likeability_ 
-   - [tweet](https://twitter.com/dotsara/status/789505735465984000)
-* _the ouroboros of inequality_ 
-   - [tweet](https://twitter.com/dotsara/status/834524181194608640)
+* From tweets that no longer exist because _Twitter_ no longer exists:
+   * _Pleasure of Intuition_ by Rigor of Pedagogy 
+   * _preaching Serious Literature to the elbow patches_ 
+   * _Clarification in the Abstract_ 
+   * _unexplained and inexplicable_ 
+   * _the catastrophic consequences of likeability_ 
+   * _the ouroboros of inequality_ 
 * _I like HTTP status codes over embedded success indicators_
    - From @bleything
 * _Spill your impossible scripture_
