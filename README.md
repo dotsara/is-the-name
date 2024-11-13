@@ -6,6 +6,8 @@
 
 ## Band names
 
+* by increasing size of eponymity
+   - From [_Only Connect_ Series 13, Semi-final 1](https://youtu.be/eP45h03_QYs?t=936) (and this is a spoiler), it's the category for the sequence behind the horned viper. 
 * historical inertia and unexamined habit
    - From [Eric Meyers's "Blinded by the Light DOM" article](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
 * an emotional understanding devoid of logic
