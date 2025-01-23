@@ -60,6 +60,8 @@
 
 ## Album / anthology titles
 
+* _conventional indicators of trustworthiness_
+   - Source: [Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570) (via [kottke.org](https://kottke.org/25/01/0046036-critical-ignoring-as-a-co))
 * _the bright and sustained return_
    - Source: [Icons of Sound: Auralizing the Lost Voice of Hagia Sophia](https://www.journals.uchicago.edu/doi/full/10.1086/693439), re: the way performers can make use of the Hagia Sofia's design with their harmonies.
 * _In the Extraordinary Form of the liturgy_
