@@ -6,6 +6,9 @@
 
 ## Band names
 
+* the galaxy rotation problem
+   - From the Wikipedia entry on [Vera Rubin](https://en.wikipedia.org/wiki/Vera_Rubin), namesake of the Vera C. Rubin Observatory in Chile
+   - This would also be a good album name!
 * by increasing size of eponymity
    - From [_Only Connect_ Series 13, Semi-final 1](https://youtu.be/eP45h03_QYs?t=936) (and this is a spoiler), it's the category for the sequence behind the horned viper. 
 * historical inertia and unexamined habit
