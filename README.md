@@ -63,6 +63,8 @@
 
 ## Album / anthology titles
 
+* _leaving behind a syntactically perfect but intellectually void shell_
+   - Source [Why AI writing is so generic, boring, and dangerous: Semantic ablation](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 * _conventional indicators of trustworthiness_
    - Source: [Critical Ignoring as a Core Competence for Digital Citizens](https://journals.sagepub.com/doi/10.1177/09637214221121570) (via [kottke.org](https://kottke.org/25/01/0046036-critical-ignoring-as-a-co))
 * _the bright and sustained return_
