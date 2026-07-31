@@ -63,6 +63,8 @@
 
 ## Album / anthology titles
 
+* _A bitter courtship_ / _A bitter courtship and short life_
+   - Emily Wilson's translation of _The Odyssey_ (1.267)
 * _leaving behind a syntactically perfect but intellectually void shell_
    - Source [Why AI writing is so generic, boring, and dangerous: Semantic ablation](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 * _conventional indicators of trustworthiness_
