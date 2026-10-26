@@ -6,6 +6,10 @@
 
 ## Band names
 
+* maximal inelastic demand
+   - this could be a band _or_ an album name
+   - From [the health care section](https://www.instagram.com/vicmensa/reel/De4v36fx7eg/) of Abdul El-Sayed's conversation with Vic Mensa ([full conversation on YouTube](https://www.youtube.com/watch?v=-Qpq-XQpk1Y))
+   - More on [price elasticity of demand](https://en.wikipedia.org/wiki/Price_elasticity_of_demand) at Wikipedia
 * the galaxy rotation problem
    - From the Wikipedia entry on [Vera Rubin](https://en.wikipedia.org/wiki/Vera_Rubin), namesake of the Vera C. Rubin Observatory in Chile
    - This would also be a good album name!
